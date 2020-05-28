@@ -1,0 +1,19 @@
+{
+  "name": "azure-personalizer-demo",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cognitiveservices-personalizer": "^2.0.0",
+    "@azure/ms-rest-azure-js": "^2.0.1",
+    "@azure/ms-rest-js": "^2.0.7",
+    "readline-sync": "^1.4.10",
+    "uuid": "^8.1.0"
+  }
+}
